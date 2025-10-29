@@ -1,0 +1,4 @@
+[submodule "fdpo-ros-stack"]
+	path = fdpo-ros-stack
+	url = https://github.com/afonsotmm/fdpo-ros-stack.git
+	branch = main
