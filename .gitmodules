@@ -2,3 +2,6 @@
 	path = fdpo-ros-stack
 	url = https://github.com/afonsotmm/fdpo-ros-stack.git
 	branch = main
+[submodule "fdpo-firmware"]
+	path = fdpo-firmware
+	url = https://github.com/Star17391/fdpo-firmware.git
